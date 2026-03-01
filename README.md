@@ -21,5 +21,5 @@ Welcome to my GitHub! I'm a computer science student passionate about building t
 
 ---
 
-### Featured Project
+### 🚀 Featured Project
 * **Retail Customer Segmentation (RFM Analysis)([Link](https://github.com/syed-muhammad-anas-kazmi/Data-Analysis-Project-Retail-Customer-Segmentation)):** A data analysis project that cleans a dataset obtained from Kaggle and performs statistical analysis before deriving useful business insights for companies to act on.
