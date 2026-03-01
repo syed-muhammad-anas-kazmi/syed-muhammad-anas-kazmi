@@ -17,9 +17,3 @@ Welcome to my GitHub! I'm a computer science student passionate about building t
 * **Languages:** Python, SQL, C/C++
 * **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
 * **Software Eng:** Git/Github, Streamlit
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radium)
