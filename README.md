@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a computer science student passionate about building t
 * **Languages:** Python, SQL, C/C++
 * **Tools:** VS Code, MS Office Suite, Power BI, Jupyter Notebooks
 * **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-* **Software Eng:** Git/Github, Streamlit
+* **Software Engineering:** Git/Github, Streamlit
 
 ---
 
